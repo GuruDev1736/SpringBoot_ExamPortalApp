@@ -35,7 +35,7 @@ public class User {
     private String lastName ;
     private String password ;
     private String email ;
-    private int phone;
+    private String phone;
     private boolean enabled = true;
     private String profile;
 
